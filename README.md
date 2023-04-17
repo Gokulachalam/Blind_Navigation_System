@@ -28,6 +28,19 @@ A blind navigation system using OpenCV could utilize computer vision algorithms 
 
 7.Test and refine the system to improve its performance and user experience.
 
+## Project Screenshots
+
+<img width="949" alt="scr4" src="https://user-images.githubusercontent.com/89055461/232454728-cfc8bebd-1b58-43a0-8fa2-420922f7792f.png">
+
+
+<img width="381" alt="scr2" src="https://user-images.githubusercontent.com/89055461/232454773-504ef723-3533-453b-9d66-36886e1168cc.png">
+
+
+<img width="381" alt="scr2" src="https://user-images.githubusercontent.com/89055461/232454901-dd65f538-5158-423b-9f59-2f0119794e8b.png">
+
+
+
+
 ## Currently Detecting objects
 
 person
